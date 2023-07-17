@@ -410,8 +410,14 @@
         O = document.querySelector(".pe-101-s_drag-component"),
         P = document.querySelector("#pe-101s-drag-tool");
     m(A, F, H, O, P);
+    var AA = document.querySelector(".pe-101_grid-4-risks"),
+        FF = document.querySelector(".pe-101-content"),
+        HH = document.querySelector(".pe-101-r_drag-line-active"),
+        OO = document.querySelector(".pe-101-r_drag-component"),
+        PP = document.querySelector("#pe-101r-drag-tool");
+    m(AA, FF, HH, OO, PP);
     var _ = () => {
-        m(S, D, W, E, x), m(A, F, H, O, P);
+        m(S, D, W, E, x), m(A, F, H, O, P), m(AA, FF, HH, OO, PP);
     };
     R(_);
 })();
