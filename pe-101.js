@@ -411,13 +411,13 @@
         P = document.querySelector("#pe-101s-drag-tool");
     m(A, F, H, O, P);
     var AA = document.querySelector(".pe-101_grid-4-risks"),
-        FF = document.querySelector(".pe-101-content"),
+        FF = document.querySelector(".pe-101-content-risks"),
         HH = document.querySelector(".pe-101-r_drag-line-active"),
         OO = document.querySelector(".pe-101-r_drag-component"),
         PP = document.querySelector("#pe-101r-drag-tool");
     m(AA, FF, HH, OO, PP);
     var AAA = document.querySelector(".pe-101_grid-4-port"),
-        FFF = document.querySelector(".pe-101-content"),
+        FFF = document.querySelector(".pe-101-content-basic"),
         HHH = document.querySelector(".pe-101-p_drag-line-active"),
         OOO = document.querySelector(".pe-101-p_drag-component"),
         PPP = document.querySelector("#pe-101p-drag-tool");
