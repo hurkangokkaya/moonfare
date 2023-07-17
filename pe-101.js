@@ -416,8 +416,14 @@
         OO = document.querySelector(".pe-101-r_drag-component"),
         PP = document.querySelector("#pe-101r-drag-tool");
     m(AA, FF, HH, OO, PP);
+    var AAA = document.querySelector(".pe-101_grid-4-port"),
+        FFF = document.querySelector(".pe-101-content"),
+        HHH = document.querySelector(".pe-101-p_drag-line-active"),
+        OOO = document.querySelector(".pe-101-p_drag-component"),
+        PPP = document.querySelector("#pe-101p-drag-tool");
+    m(AAA, FFF, HHH, OOO, PPP);
     var _ = () => {
-        m(S, D, W, E, x), m(A, F, H, O, P), m(AA, FF, HH, OO, PP);
+        m(S, D, W, E, x), m(A, F, H, O, P), m(AA, FF, HH, OO, PP), m(AAA, FFF, HHH, OOO, PPP);
     };
     R(_);
 })();
