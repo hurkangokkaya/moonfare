@@ -398,12 +398,7 @@
                 },
             });
     }
-    var S = document.querySelector(".pe-101_grid-4-basics"),
-        D = document.querySelector(".pe-101-content-basics"),
-        W = document.querySelector(".pe-101-b_drag-line-active"),
-        E = document.querySelector(".pe-101-b_drag-component"),
-        x = document.querySelector("#pe-101b-drag-tool");
-    m(S, D, W, E, x);
+   
     var A = document.querySelector(".pe-101_grid-4-strategies"),
         F = document.querySelector(".pe-101-content"),
         H = document.querySelector(".pe-101-s_drag-line-active"),
@@ -423,7 +418,7 @@
         PPP = document.querySelector("#pe-101p-drag-tool");
     m(AAA, FFF, HHH, OOO, PPP);
     var _ = () => {
-        m(S, D, W, E, x), m(A, F, H, O, P), m(AA, FF, HH, OO, PP), m(AAA, FFF, HHH, OOO, PPP);
+        m(A, F, H, O, P), m(AA, FF, HH, OO, PP), m(AAA, FFF, HHH, OOO, PPP);
     };
     R(_);
 })();
