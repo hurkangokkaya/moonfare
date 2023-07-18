@@ -405,7 +405,7 @@
         x = document.querySelector("#pe-101b-drag-tool");
     m(S, D, W, E, x);
     var A = document.querySelector(".pe-101_grid-4-strategies"),
-        F = document.querySelector(".pe-101-content"),
+        F = document.querySelector(".pe-101-content-dynamics"),
         H = document.querySelector(".pe-101-s_drag-line-active"),
         O = document.querySelector(".pe-101-s_drag-component"),
         P = document.querySelector("#pe-101s-drag-tool");
@@ -422,11 +422,11 @@
         OOO = document.querySelector(".pe-101-p_drag-component"),
         PPP = document.querySelector("#pe-101p-drag-tool");
     m(AAA, FFF, HHH, OOO, PPP);
-    var AAA = document.querySelector(".pe-101_grid-4-ex"),
-        FFF = document.querySelector(".pe-101-content-ex"),
-        HHH = document.querySelector(".pe-101-e_drag-line-active"),
-        OOO = document.querySelector(".pe-101-e_drag-component"),
-        PPP = document.querySelector("#pe-101e-drag-tool");
+    var AAAA = document.querySelector(".pe-101_grid-4-ex"),
+        FFFF = document.querySelector(".pe-101-content-ex"),
+        HHHH = document.querySelector(".pe-101-e_drag-line-active"),
+        OOOO = document.querySelector(".pe-101-e_drag-component"),
+        PPPP = document.querySelector("#pe-101e-drag-tool");
     m(AAAA, FFFF, HHHH, OOOO, PPPP);
     var _ = () => {
         m(S, D, W, E, x), m(A, F, H, O, P), m(AA, FF, HH, OO, PP), m(AAA, FFF, HHH, OOO, PPP),m(AAAA, FFFF, HHHH, OOOO, PPPP);
