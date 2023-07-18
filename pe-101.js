@@ -421,11 +421,11 @@
         HHH = document.querySelector(".pe-101-p_drag-line-active"),
         OOO = document.querySelector(".pe-101-p_drag-component"),
         PPP = document.querySelector("#pe-101p-drag-tool");
-    m(AAAA, FFFF, HHHH, OOOO, PPPP);
+    m(AAA, FFF, HHH, OOO, PPP);
     var AAA = document.querySelector(".pe-101_grid-4-ex"),
         FFF = document.querySelector(".pe-101-content-ex"),
-        HHH = document.querySelector(".pe-101-ex_drag-line-active"),
-        OOO = document.querySelector(".pe-101-ex_drag-component"),
+        HHH = document.querySelector(".pe-101-e_drag-line-active"),
+        OOO = document.querySelector(".pe-101-e_drag-component"),
         PPP = document.querySelector("#pe-101e-drag-tool");
     m(AAAA, FFFF, HHHH, OOOO, PPPP);
     var _ = () => {
