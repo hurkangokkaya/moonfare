@@ -429,7 +429,7 @@
         PPP = document.querySelector("#pe-101e-drag-tool");
     m(AAAA, FFFF, HHHH, OOOO, PPPP);
     var _ = () => {
-        m(S, D, W, E, x), m(A, F, H, O, P), m(AA, FF, HH, OO, PP), m(AAA, FFF, HHH, OOO, PPP), m(AAAA, FFFF, HHHH, OOOO, PPPP);
+        m(S, D, W, E, x), m(A, F, H, O, P), m(AA, FF, HH, OO, PP), m(AAA, FFF, HHH, OOO, PPP),m(AAAA, FFFF, HHHH, OOOO, PPPP);
     };
     R(_);
 })();
